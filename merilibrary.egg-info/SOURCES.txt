@@ -1,0 +1,5 @@
+setup.py
+merilibrary.egg-info/PKG-INFO
+merilibrary.egg-info/SOURCES.txt
+merilibrary.egg-info/dependency_links.txt
+merilibrary.egg-info/top_level.txt
